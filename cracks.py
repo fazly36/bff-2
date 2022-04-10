@@ -67,12 +67,12 @@ def ingfoh():
 f"""{Hj}
  • Info script :
  	
- - author      : Romi Afrizal
- - instagram   : romz_xyz
- - facebook    : facebook.com/romi.afrizal.102
- - fanspage    : facebook.com/100022086172556
- - whatsap     : +6282371648186
- - github      : github.com/Mark-Zuck
+ - author      : 
+ - instagram   : 
+ - facebook    : facebook.com/
+ - fanspage    : facebook.com/
+ - whatsap     : 
+ - github      : github.com/fazly36 
  - script name : bff-2
  - version     : 1.3
  - update pada : 21 Februari 2022
